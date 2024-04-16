@@ -22,7 +22,7 @@ TuComunidad es una aplicación web interactiva desarrollada utilizando React, di
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/tuUsuario/TuComunidad-API-MongoDB.git
+    git clone https://github.com/AlvaroG001/TuComunidad-API-MongoDB.git
     ```
 2. **Instalar dependencias**:
     ```bash
